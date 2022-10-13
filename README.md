@@ -1,9 +1,8 @@
-- 👋 Hi, I’m zouzanyan
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java,Python
-- 💞️ I’m looking to collaborate on learning CS
-- 📫 How to reach me ...
+- 👋 Hi, I’m yan,you can derive what you want from my pages,at the same time,I think we discuss together about even if a little...
 
 
 
+
+## <center> this is my github conribution <center>
+![](https://activity-graph.herokuapp.com/graph?username=zouzanyan&theme=react)
 
