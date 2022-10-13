@@ -3,6 +3,6 @@
 
 
 
-## <center> this is my github conribution <center>
+## <center> this is my project contribution <center>
 ![](https://activity-graph.herokuapp.com/graph?username=zouzanyan&theme=react)
 
